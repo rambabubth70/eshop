@@ -1,0 +1,1580 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="ltr" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Shopping Cart</title>
+<base href="https://www.hitechro.net/" />
+
+								
+
+				
+<link href="catalog/view/theme/july2017/css/jquery.bxslider.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/july2017/css/theme.minify.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/july2017/css/style.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/july2017/css/custom.css?time=1657357509" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/owl_carousel_custom/owl.carousel.full.min.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="https://www.hitechro.net/image/catalog/logo_top_hover.png" rel="icon" />
+<script src="catalog/view/theme/july2017/js/theme.unminify.js" type="text/javascript"></script>
+<script type="text/javascript">
+is_logged = 0;
+fb_app_id = '';
+scroll_to_content = 0;
+</script>
+<script src="catalog/view/theme/july2017/js/jquery.bxslider.min.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/owl_carousel_custom/assets/owl.carousel.js" type="text/javascript"></script>
+<script src="catalog/view/theme/july2017/parallax_assets/uikit.min.js" type="text/javascript"></script>
+<script src="catalog/view/theme/july2017/parallax_assets/parallax.js" type="text/javascript"></script>
+<script src="catalog/view/theme/july2017/svg_assets/jquery.zpath.js" type="text/javascript"></script>
+<script src="catalog/view/theme/july2017/movement_assets/jquery.parallax.min.js" type="text/javascript"></script>
+<script src="catalog/view/theme/july2017/js/custom.js?time=1657357509" type="text/javascript"></script>
+<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135784127-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135784127-1');
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.hitechro.net/",
+  "logo": "https://www.hitechro.net/catalog/view/theme/july2017/images/logo_top_hover.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+91-997-408-8718",
+    "contactType": "customer service"
+  }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.hitechro.net/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://query.hitechro.net/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Hi-Tech RO",
+  "url": "https://www.hitechro.net/",
+  "sameAs": [
+    "https://www.facebook.com/HitechROSystems",
+    "https://twitter.com/HitechRo",
+    "https://www.youtube.com/user/hitechro",
+    "https://plus.google.com/102443085032472287752"
+  ]
+}
+</script>
+
+            <script type="text/javascript">
+                                    </script>
+        <script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=8691ab59a1334' async='true'></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8084047444033263"
+     crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="irsgroup/ind-font/font.css" />
+                    <script type="text/javascript" src="irsgroup/ind-font/inr.js"></script>
+</head>
+<body class="checkout-cart">
+
+<div id="go_to_top"><a href="#go_to_top"  alt="Go To Top" title="Go To Top"> <img src="catalog/view/theme/july2017/images/top_icon.png"> </a></div>
+<div class="menu_fix mobile">
+  <div class="col-xs-3"><a href="https://www.hitechro.net/home"><img src="catalog/view/theme/july2017/images/home_mob_icon.png"></a></div>
+  <div class="col-xs-3">
+        <a href="https://www.hitechro.net/register">
+        <img src="catalog/view/theme/july2017/images/user_icon_mobile.png"></a> </div>
+  <div class="col-xs-3"><a href="https://www.hitechro.net/shopping-cart"><span class="counter cart_count">0</span><img src="catalog/view/theme/july2017/images/cart_mobile_icon.png"></a></div>
+  <div class="col-xs-3" id="mob_menu_bar"><img src="catalog/view/theme/july2017/images/menu_icon.png"> </div>
+</div>
+<div class="logo_wrap"> <a href="https://www.hitechro.net/home"><img src="https://www.hitechro.net/image/catalog/logo_top.png" title="Hi-Tech Sweet Water Technologies Pvt. Ltd." alt="Hi-Tech Sweet Water Technologies Pvt. Ltd." class="normal"/>
+	<img src="catalog/view/theme/july2017/images/logo_top_hover.png" class="hover">
+</a> </div>
+<div class="desk_search_wrap raleway_semi" style="">
+    <div class="gridContainer">
+        <div class="full_wrap">
+            <input name="search" type="text" class="search_txt_top" placeholder="Search Here" id="desk_search_txt" value="">
+            <a href="javascript:void(0);" class="go_btn" id="desk_search_btn">go</a>
+
+            <button type="button" class="btn btn-default btn-lg top_search_btn hidden"><i class="fa fa-search"></i></button>
+        </div>
+    </div>
+</div>
+<div class="search_close_btn"><img src="catalog/view/theme/july2017/images/menu_icon_close.png"></div>
+<div class="search_overlay_wrap">
+
+</div>
+<a href="javascript:void(0);" id="search_open_btn2" class="mobile_search_anchor">
+    <img src="catalog/view/theme/july2017/images/search_icon_new.png">
+</a>
+<a href="tel: 1800 120 1212" class="ipad_top_mobile_anchor"><i class="fas fa-mobile-alt"></i></a>
+<div class="top_menu_wrap ">
+  <div class="gridContainer clearfix">
+    <div class="full_wrap">
+      <div class="full_wrap anchor_wrap raleway_semi">
+                <a href="https://www.hitechro.net/register">
+                <div class="icon_wrap"> <img src="catalog/view/theme/july2017/images/account_icon.png"> </div>
+        <div class="title"> Account </div>
+        </a> <a href="#">
+        <div class="icon_wrap"> <img src="catalog/view/theme/july2017/images/download_icon.png"> </div>
+        <div class="title"> Downloads </div>
+        </a> <a href="https://www.hitechro.net/shopping-cart">
+        <div class="icon_wrap"> <img src="catalog/view/theme/july2017/images/basket_icon.png"> </div>
+        <div class="title"> Your Cart </div>
+                <span class="counter cart_count">0</span>
+        </a>
+        
+        <a href="javascript:void(0);" id="search_open_btn">
+        	<div class="icon_wrap"> <img src="catalog/view/theme/july2017/images/search_icon_new.png"> </div>
+        <div class="title"> Search Now </div>
+        </a>
+            <a href="tel: 1800 120 1212" class="top_mobile_anchor common_anchor raleway_bold white"><span class="hide_in_mobile">Customer Care: </span>1800 120 1212</a>
+        
+         </div>
+
+      <div class="full_wrap main_menu_parent_wrap">
+      	<div class="menu_close_btn">
+        	<i class="fa fa-times-circle"></i>
+        </div>
+        <ul class="raleway_semi">
+          <li><a href="https://www.hitechro.net/home">Home</a> </li>
+          <li  class="has_children"><a href="javascript:void(0);">Products</a>
+            
+            
+                        <div class="menu_overlay">
+              <div class="full_wrap">
+                <div class="full_wrap category_menu_wrap">
+                	                                    
+                  
+                                                                             
+                                    
+                  
+                                        <div class="single_category_wrap"><a href="https://www.hitechro.net/domestic-ro-system" title="Domestic">Domestic Water Purifiers</a>
+                        <div class="sub_category_wrap">                                                    <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/water-purifier"  title="">Water Purifier</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/orion-family"  title="">Orion Family</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/ro-classic"  title="">Ro Classic</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/under-the-counter"  title="UTC - Under the Counter">Utc - Under The Counter</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/cloud"  title="">Ro Cloud (zero Waste Tech.)</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/hot-and-cold"  title="">Ro Hot &amp; Cold</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/domestic-ro-system/uv-filtration "  title="">Uv Filtration </a></div>
+                                                                              </div>
+                     </div>
+                                     
+                                    
+                  
+                                        <div class="single_category_wrap"><a href="https://www.hitechro.net/industrial-and-commercial" title="Industrial and Commercial">Industrial and Commercial Plants</a>
+                        <div class="sub_category_wrap">                                                    <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/light-commercial"  title="light commercial">Light Commercial</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/commercial-ro-system"  title="Commercial Plants">Commercial Plants</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/industrial-ro-system"  title="Industrial Plants">Industrial Ro Plants</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/water-softner"  title="Softener">Water Softner</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/ro-with-cooler"  title="">Water Cooler With Inbuilt Ro System</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/water-vending-machine"  title="">Water Vending Machines</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/industrial-and-commercial/whole-house-water-filtration-system"  title="">Whole House Water System</a></div>
+                                                                              </div>
+                     </div>
+                                     
+                                    
+                  
+                                        <div class="single_category_wrap"><a href="https://www.hitechro.net/ro-spare-parts" title="Spares">RO Spares and Accessories </a>
+                        <div class="sub_category_wrap">                                                    <div class="full_wrap"><a href="https://www.hitechro.net/ro-spare-parts/ro-membranes"  title="Membranes">Ro Membranes</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/ro-spare-parts/pump-and-pump-heads"  title="Pump and Pump Heads">Pumps And Accessories</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/ro-spare-parts/filters-and-cartridges"  title="Filters and Cartridges">Filters And Cartridges</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/ro-spare-parts/housing"  title="Housing">Filter And Membrane Housings</a></div>
+                                                                                <div class="full_wrap"><a href="https://www.hitechro.net/ro-spare-parts/fittings-and-accessories"  title="Fittings and Accessories">Fittings And Accessories</a></div>
+                                                                              </div>
+                     </div>
+                                     
+                                    
+                  
+                                                                             
+                                    
+                  
+                                                                             
+                                    
+                  
+                                                                             
+                                    
+                                    <div class="single_category_wrap"><a href="javascript:void(0);">Others</a>
+                        <div class="sub_category_wrap">                                                    <div class="full_wrap"><a href="https://www.hitechro.net/amc"  title="">Amc</a></div>
+                                                    <div class="full_wrap"><a href="https://www.hitechro.net/alkaline"  title="">Alkaline</a></div>
+                                                    <div class="full_wrap"><a href="https://www.hitechro.net/gravity-water-purifiers"  title="">Gravity Water Purifier</a></div>
+                                                    <div class="full_wrap"><a href="https://www.hitechro.net/index.php?route=product/category&amp;path=189"  title="">Covid-19 Health Care Products</a></div>
+                                                  </div>
+                     </div>
+                                    
+                </div>
+              </div>
+            </div>
+            
+            
+            
+            
+            
+          </li>
+          <li><a href="https://www.hitechro.net/the-group">The group</a> </li>
+          <li><a href="https://www.hitechro.net/our-services">Our Services</a> </li>
+          <li><a href="https://www.hitechro.net/why-hi-tech">Why Hi-Tech ?</a> </li>
+          <li><a href="https://www.hitechro.net/after-service">Hi-Tech Care</a> </li>
+          <li class="has_children single_has_children" style="position:relative"><a href="javascript:void(0);">Explore</a> 
+          
+          
+          <div class="menu_overlay">
+              <div class="full_wrap">
+                <div class="full_wrap category_menu_wrap">
+                	                                    
+                        <div class="single_category_wrap">
+                        <div class="sub_category_wrap">
+                            <div class="full_wrap"><a href="https://www.hitechro.net/videos" title="">Videos</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/gallery" title="">Gallery</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/brochure" title="" target="_blank">E-Catalog</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/blogs" title="">Blogs</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/news-and-events" title="">News & Events</a></div>
+
+
+
+                          </div>
+                        </div>
+                                       
+                                    
+                                    
+                </div>
+              </div>
+            </div>
+          
+          
+          </li>
+          <li class="has_children single_has_children" style="position:relative"><a href="https://www.hitechro.net/contact-us">Contact us</a> 
+          
+          <div class="menu_overlay right">
+              <div class="full_wrap">
+                <div class="full_wrap category_menu_wrap">
+                	                                    
+                        <div class="single_category_wrap">
+                        <div class="sub_category_wrap">
+                            <div class="full_wrap"><a href="https://www.hitechro.net/request-a-demo" title="">Request a Demo</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/become-a-trade-partner" title="">Become a Trade Partner</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/service-terms" title="">Service Terms</a></div>
+                            <div class="full_wrap"><a href="https://www.hitechro.net/hi-tech-stores" title="">Hi-Tech Stores</a></div>
+                            
+                          </div>
+                        </div>
+                                       
+                                    
+                                    
+                </div>
+              </div>
+            </div>
+            
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="notification" class="raleway_semi"></div>
+<div id="abs_inner_notification" class="raleway_semi"></div>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=1019929151802631&autoLogAppEvents=1" nonce="OgMd9wfu"></script><div class="full_wrap login_parent_wrap">
+  <div class="grey_wrap nobg_img"> </div>
+  <div class="gridContainer clearfix">
+    <div class="full_wrap">
+      <div class="full_wrap white_wrap">
+            <div class="full_wrap">
+
+                <div class="full_wrap noti_wrap">
+                                                    </div>
+
+            </div>
+            
+            <div class="full_wrap empty_wrap empty_p"> Your shopping cart is empty! </div>
+    <div class="full_wrap align_center"> <a href="https://www.hitechro.net/home" class="common_anchor"><span>Continue</span></a> </div>
+            
+          </div>
+    </div>
+  </div>
+</div>
+<div class="world_map_bottom_wrap full_wrap">
+
+    <div class="full_wrap footer_map_wrap" id="regions_div">
+
+    </div class="full_wrap">
+
+        <div class="world_map_bottom_inner_wrap">
+
+            <div class="full_wrap">
+
+                <h2 class="common_header raleway_reg">Hi-tech<br>
+
+                    Have a global Presence</h2>
+
+            </div>
+
+            <div class="full_wrap">
+
+                <p class="raleway_reg">With its after sales services par excellence, Hi-Tech has successfully achieved a position second to none in the field of water purification. From domestic purifiers to high end industrial level purification assemblies, Hi-Tech has focused on delivering with a commitment to take care of the product and your requirements and concerns. With a giant network throughout the country, the customers get easy and prompt repair, replacement and any kind of assistance at every doorstep with a motto of- One Hour(to respond)- One Day(to troubleshoot &amp; rectify)- One Time solution. Superior spares, expert technicians, and strict adherence service policy boosts the company towards relationship building through 100% customer satisfaction.</p>
+
+            </div>
+
+        </div>
+
+    <div>
+
+</div>
+
+
+
+
+    <div class="full_wrap footer_icons_wrap">
+
+    <div class="gridContainer">
+
+    <div class="full_wrap ">
+
+        <ul id="footer_icon_ul">
+
+
+
+
+
+
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/ifa-icon-1.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/isa-icon-2.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/water-association-icon-3.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/water-quality-icon-4.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/bqc-icon-5.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/fda-icon-6.png">
+
+                
+
+
+        </li>
+
+    
+        <li>
+
+            
+                <img src="image/catalog/footer_icons/ce-icon-7.png">
+
+                
+
+
+        </li>
+
+    
+        </ul>
+
+    </div>
+
+    </div>
+
+</div>
+
+
+
+<div class="full_wrap testimonial_wrap">
+
+
+
+
+
+    <div class="gridContainer clearfix">
+
+
+
+
+
+        <div class="full_wrap">
+
+
+
+
+
+            <h2 class="raleway_reg common_header">
+
+
+
+                WHAT OUR CUSTOMERS HAVE TO SAY ?
+
+            </h2>
+
+
+
+
+
+        </div>
+
+        <div class=" carousel slide full_wrap" data-ride="carousel" data-pause="false">
+
+            <div class="carousel-inner">
+                
+                <div class="full_wrap single_testimonial_wrap item active">
+                    <div class="full_wrap">
+
+
+
+                        <h3 class="raleway_reg  title">
+
+
+
+                            Super flow
+                        </h3>
+
+
+
+
+
+                    </div>
+
+                    <div class="full_wrap work_reg">
+
+
+
+                        <p>
+
+
+
+
+
+                            “- Super flow good control of tds
+- Best Indian company membrane
+- Previously I used vontron, pentair membrane, I think it's better than that.
+- For 100 GPD RO membrane use (flow restrictor) FR 800 for better results change all inline filters including prefilters”
+
+
+
+                        </p>
+
+
+
+
+
+                    </div>
+
+
+
+                    <div class="full_wrap">
+
+
+
+                        <h2 class="work_reg name">
+
+
+
+                            Siddu C Hiremath
+                        </h2>
+
+                    </div>
+
+                    <div class="full_wrap rating_wrap">
+
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                    </div>
+
+                </div>
+
+                
+                <div class="full_wrap single_testimonial_wrap item ">
+                    <div class="full_wrap">
+
+
+
+                        <h3 class="raleway_reg  title">
+
+
+
+                            Thank Hi-Tech for your outstanding service
+                        </h3>
+
+
+
+
+
+                    </div>
+
+                    <div class="full_wrap work_reg">
+
+
+
+                        <p>
+
+
+
+
+
+                            “I would like to take this opportunity to thank Hi-Tech for your outstanding service and good product deliver.”
+
+
+
+                        </p>
+
+
+
+
+
+                    </div>
+
+
+
+                    <div class="full_wrap">
+
+
+
+                        <h2 class="work_reg name">
+
+
+
+                            Nilesh Singh
+                        </h2>
+
+                    </div>
+
+                    <div class="full_wrap rating_wrap">
+
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                    </div>
+
+                </div>
+
+                
+                <div class="full_wrap single_testimonial_wrap item ">
+                    <div class="full_wrap">
+
+
+
+                        <h3 class="raleway_reg  title">
+
+
+
+                            Team member was very respectful and graceful
+                        </h3>
+
+
+
+
+
+                    </div>
+
+                    <div class="full_wrap work_reg">
+
+
+
+                        <p>
+
+
+
+
+
+                            “Your Team member was very respectful and graceful during his installation visit to my home. Really appreciate his neat work and polite language. Good to see the brand having excellent employee for their service delivery.”
+
+
+
+                        </p>
+
+
+
+
+
+                    </div>
+
+
+
+                    <div class="full_wrap">
+
+
+
+                        <h2 class="work_reg name">
+
+
+
+                            Ajeet Kumar
+                        </h2>
+
+                    </div>
+
+                    <div class="full_wrap rating_wrap">
+
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                    </div>
+
+                </div>
+
+                
+                <div class="full_wrap single_testimonial_wrap item ">
+                    <div class="full_wrap">
+
+
+
+                        <h3 class="raleway_reg  title">
+
+
+
+                            Very Good Services
+                        </h3>
+
+
+
+
+
+                    </div>
+
+                    <div class="full_wrap work_reg">
+
+
+
+                        <p>
+
+
+
+
+
+                            “Fully satisfied with the delivery &amp; installation, though only a week old. Very convenient,as it stores the water after filtration. Ideal for homes where municipal water is available.”
+
+
+
+                        </p>
+
+
+
+
+
+                    </div>
+
+
+
+                    <div class="full_wrap">
+
+
+
+                        <h2 class="work_reg name">
+
+
+
+                            D Kameswara Rao
+                        </h2>
+
+                    </div>
+
+                    <div class="full_wrap rating_wrap">
+
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="fas fa-star"></i>
+
+                            
+                        
+                            
+                                <i class="far fa-star"></i>
+
+                            
+                        
+                    </div>
+
+                </div>
+
+                
+            </div>
+
+        </div>
+
+
+
+
+
+    </div>
+
+</div>
+
+
+<div class="full_wrap footer_wrap">
+
+    <div class="gridContainer clearfix">
+
+        <div class="full_wrap">
+
+            <div class="full_wrap">
+
+                <div class="full_wrap raleway_reg footer_ul_parent">
+
+                    
+                    
+                    <ul class="">
+
+                        <li class="title_li raleway_semi">Domestic Water Purifiers</li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/domestic-ro-system/orion-family">Orion Family</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/domestic-ro-system/cloud">Ro Cloud (zero Waste Tech.)</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/domestic-ro-system/hot-and-cold">Ro Hot &amp; Cold</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/domestic-ro-system/uv-filtration ">Uv Filtration </a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                    
+                    <ul class="">
+
+                        <li class="title_li raleway_semi">Industrial and Commercial Plants</li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/light-commercial">Light Commercial</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/commercial-ro-system">Commercial Plants</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/industrial-ro-system">Industrial Ro Plants</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/water-softner">Water Softner</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/ro-with-cooler">Water Cooler With Inbuilt Ro System</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/industrial-and-commercial/water-vending-machine">Water Vending Machines</a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                    
+                    <ul class="">
+
+                        <li class="title_li raleway_semi">RO Spares and Accessories </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/ro-spare-parts/ro-membranes">Ro Membranes</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/ro-spare-parts/pump-and-pump-heads">Pumps And Accessories</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/ro-spare-parts/filters-and-cartridges">Filters And Cartridges</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/ro-spare-parts/housing">Filter And Membrane Housings</a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="https://www.hitechro.net/ro-spare-parts/fittings-and-accessories">Fittings And Accessories</a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                    
+                    
+                    
+                    <ul class="">
+
+                        <li class="title_li raleway_semi">Information</li>
+
+                        
+
+
+
+
+                        <li><a href="https://www.hitechro.net/delivery-information">Delivery Information</a></li>
+
+
+
+                        
+
+
+
+
+                        <li><a href="https://www.hitechro.net/privacy-policy">Privacy Policy</a></li>
+
+
+
+                        
+
+
+
+
+                        <li><a href="https://www.hitechro.net/terms-conditions">Terms &amp; Conditions</a></li>
+
+
+
+                        
+                    </ul>
+
+                    
+
+
+                    <ul class="">
+
+                        <li class="title_li raleway_semi">Group’s Presence</li>
+
+
+
+                        <li><a href="http://www.Hitechro.net" target="_blank">RO Water Purifiers </a></li>
+
+                        <li><a href="http://www.hitechappliances.net" target="_blank">Hi-Tech Appliances </a></li>
+
+                        <li><a href="http://www.hi-techfrozen.com/" target="_blank">Cold Storage </a></li>
+
+                        <li><a href="https://www.hitechhospitality.com/" target="_blank">Real Estate </a></li>
+
+
+
+                    </ul>
+
+                    <ul class="">
+
+
+                        <!-- <img src="catalog/view/theme/july2017/images/scan_gpay_cod_img.png"> -->
+                        <div class="fb-page" data-href="https://www.facebook.com/HitechROSystems/" data-tabs="" data-width="50" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/HitechROSystems/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HitechROSystems/">Hi-Tech Sweet Water Technologies Pvt Ltd</a></blockquote></div>
+                        
+                    </ul>
+
+                </div>
+
+                <div class="full_wrap post_footer_wrap raleway_reg">
+
+                    <div class="quater_wrap">
+
+                        <div class="full_wrap copyright_wrap"> Copyright
+
+                            &copy; 2022 Hi-Tech Sweet Water Technologies Pvt. Ltd.<br>
+
+                            Managed by <a href="https://techinnovators.co.in" target="_blank">Tech Innovators</a></div>
+
+                    </div>
+
+                    <div class="quater_wrap">
+
+                       <div class="full_wrap social_media_wrap">
+                            <a href="https://www.facebook.com/HitechROSystems/?ref=br_rs" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                            <a href="https://in.pinterest.com/hitechro122/" target="_blank"><i class="fab fa-pinterest-square"></i></a>
+                            <a href="https://twitter.com/hitechro?lang=en" target="_blank"><i class="fab fa-twitter-square"></i></a>
+                            <a href="https://www.instagram.com/hitech_ro/" target="_blank"><i class="fab fa-instagram"></i></a></div>
+                    </div>
+
+                    <div class="quater_wrap">
+
+                        <div class="full_wrap"><img src="catalog/view/theme/july2017/images/payment_icon_list.png"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+    var pin_image = 'catalog/view/theme/july2017/images/contact_pin.png';
+
+    function initMap() {
+
+        w_w = $(window).innerWidth();
+
+
+
+        if(w_w<486){
+
+            center_loc = {lat: 21.301414, lng: 64.7234483};
+
+            center_zoom = 3;
+
+        }else if(w_w < 1100){
+
+            center_zoom = 2;
+
+            center_loc = {lat: 17.5237164, lng: -8.4809614};
+
+        }else{
+
+            center_zoom = 3;
+
+            center_loc = {lat: 17.5237164, lng: -8.4809614};
+
+        }
+
+        var map = new google.maps.Map(document.getElementById('regions_div'), {
+
+            zoom: center_zoom,
+
+            center: center_loc,
+
+            scaleControl: false,
+
+            scrollwheel: false,
+
+        });
+
+
+
+        // Create an array of alphabetical characters used to label the markers.
+
+        var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+        var locations = [
+
+            {lat: 20.8923638, lng: 73.7568972, label:'India',labelInitial:''},
+
+            {lat: 13.000345, lng: 96.994874, label:'Thailand',labelInitial:''},
+
+            {lat: 25.0750853, lng: 54.9475628, label:'Dubai',labelInitial:''},
+
+            {lat: 34.4202313, lng: 86.0877901, label:'China',labelInitial:''},
+
+            {lat: 36.2164817, lng: -113.6844706, label:'USA',labelInitial:''},
+
+            {lat: 0.1544419, lng: 35.6643214, label:'Kenya',labelInitial:''},
+
+            {lat: 33.8525076, lng: 63.2131323, label:'Afghanistan',labelInitial:''},
+
+            {lat: 7.8561993, lng: 79.5850138, label:'Sri Lanka',labelInitial:''},
+
+            {lat: -20.241753, lng: 57.5601223, label:'Mauritius',labelInitial:''},
+
+            {lat: 30.2825098, lng: 64.8566929, label:'Pakistan',labelInitial:''},
+
+            {lat: 28.379007, lng: 81.886752, label:'Nepal',labelInitial:''},
+
+            {lat: 27.4700117, lng: 89.3147173, label:'Bhutan',labelInitial:''},
+
+        ];
+
+
+
+        var styles = [
+
+            {
+
+                "featureType": "administrative",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "saturation": "-100",
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "administrative.province",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "landscape",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "saturation": -100
+
+                    },
+
+                    {
+
+                        "lightness": 65
+
+                    },
+
+                    {
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "poi",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "road",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "saturation": "-100",
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "road.highway",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "road.arterial",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "lightness": "30",
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "road.local",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "lightness": "40",
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "transit",
+
+                "elementType": "all",
+
+                "stylers": [
+
+                    {
+
+                        "saturation": -100
+
+                    },
+
+                    {
+
+                        "visibility": "off"
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                featureType: 'water',
+
+                elementType: 'geometry',
+
+                stylers: [{color: '#ffffff'}]
+
+            },
+
+            {
+
+                "featureType": "water",
+
+                "elementType": "labels",
+
+                "stylers": [
+
+                    {
+
+                        "lightness": -25
+
+                    },
+
+                    {
+
+                        "saturation": -100
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                featureType: "administrative",
+
+                elementType: "labels",
+
+                stylers: [
+
+                    { visibility: "off" }
+
+                ]
+
+            },{
+
+                featureType: "poi",
+
+                elementType: "labels",
+
+                stylers: [
+
+                    { visibility: "off" }
+
+                ]
+
+            },{
+
+                featureType: "water",
+
+                elementType: "labels",
+
+                stylers: [
+
+                    { visibility: "off" }
+
+                ]
+
+            },{
+
+                featureType: "road",
+
+                elementType: "labels",
+
+                stylers: [
+
+                    { visibility: "off" }
+
+                ]
+
+            },
+
+            {
+
+                featureType: "administrative.country",
+
+                elementType: "geometry.stroke",
+
+                stylers: [
+
+                    { visibility: "off" }
+
+                ]
+
+            },
+
+            {
+
+                "featureType": "administrative",
+
+                "elementType": "geometry.fill",
+
+                "stylers": [{ "visibility": "off" }]
+
+            }
+
+        ];
+
+        map.setOptions({styles: styles});
+
+
+
+
+
+        // Add some markers to the map.
+
+        // Note: The code uses the JavaScript Array.prototype.map() method to
+
+        // create an array of markers based on a given "locations" array.
+
+        // The map() method here has nothing to do with the Google Maps API.
+
+        count=0;
+
+        var markers = locations.map(function(location, i) {
+
+            var infowindow = new google.maps.InfoWindow({
+
+                content: location.label
+
+            });
+
+            marker = new google.maps.Marker({
+
+                map: map,
+
+                position: new google.maps.LatLng(location.lat, location.lng),
+
+                info: infowindow,
+
+                icon: pin_image,
+
+                label: location.labelInitial,
+
+                content : location.label
+
+            });
+
+
+
+            /*
+
+
+
+
+
+             marker.addListener('click', function() {
+
+             infowindow[count].open(map, marker);
+
+             });
+
+             */
+
+
+
+            google.maps.event.addListener(marker, 'click', function() {
+
+                marker.info.setContent(this.content);
+
+                marker.info.open(map, this);
+
+            });
+
+            return marker;
+
+
+
+        });
+
+
+
+
+
+
+
+
+
+
+
+        // Add a marker clusterer to manage the markers.
+
+        /* var markerCluster = new MarkerClusterer(map, markers,
+
+        {imagePath: 'catalog/view/theme/july2017/images/m'});*/
+
+
+
+    }
+
+
+
+
+
+</script>
+
+<!--<script src="catalog/view/theme/july2017/js/markerclusterer.js"></script>-->
+
+<script async defer
+
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdKmKGlIJzNrj1MI_F9C0rf38tYUaequQ&callback=initMap">
+
+</script>
+
+</body></html>
